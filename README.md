@@ -1,1 +1,1 @@
-# Shopping application (with html and css)
+# Shopping application 
