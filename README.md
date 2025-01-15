@@ -1,1 +1,2 @@
 # Shopping application 
+AUTHOR - Avantika
